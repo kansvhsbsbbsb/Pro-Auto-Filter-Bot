@@ -4,25 +4,18 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>🙋‍♂️Hey {}!!</b>
+    START_TEXT = """<b>🙋‍♂️Hey {}😘😘</b>
 
-<b>Am Just A Pro Auto Filter Bot....😉</b>
+<b>Am Just A Pro Auto filter bot for @CinemaChanda </b>
 
-<b>Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝</b>
 
-<b>Watch the video below to build an Pro Autofilter bot like me...</b>
-
-<b>Subscribe to the update channel to learn about my updates and activity...</b>
+<b>join our group and support 😘</b>
 
 <b>Press /help to know about available commands🤪</b>"""    
     
     HELP_TEXT = """
 <b>😉How To Use Me!😉?</b>
 
-<i>
--> Add Me To Any Group And Make Me Admin
--> Add Me To Your Desired Channel
-</i>
 
 <b>Bot Commands (Works Only In Groups) :</b>
 
@@ -51,13 +44,13 @@ class Translation(object):
     
     ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
     
-<b>➥ 😎Creator</b> : <b>@AlbertEinstein_TG</b> 
+<b>➥ 😎Creator</b> : <b>@Moviechanda_Ower</b>
 
-<b>➥ 👨‍💻Editor</b> : <b>@Mrk_YT</b>
+<b>➥ 👨‍💻Editor</b> : <b>@Moviechanda_Ower</b>
 
 <b>➥ 🗣️Language</b> : <b>Python3</b>
 
 <b>➥ 📚Library</b> : <b><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></b>
 
-<b>➥ 📖Source Code</b> : <b><a href="https://github.com/MRK-YT/Pro-Auto-Filter-Bot">💥Click Me</a></b>
+<b>➥ 📖Source Code</b> : <b><a href="https://t.me/Cinemachanda">💥Click Me</a></b>
 """
