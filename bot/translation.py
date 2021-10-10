@@ -51,7 +51,7 @@ class Translation(object):
     
     ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
     
-<b>➥ 😎Creator</b> : <b>@AlbertEinstein_TG</b> 
+<b>➥ 😎Creator</b> : <b>@CinemaChanda</b> 
 
 <b>➥ 👨‍💻Editor</b> : <b>@Mrk_YT</b>
 
